@@ -6,10 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a full stack application that was built for a small business. It is recomended to use the user guide and to use [Visual Studio Code](https://code.visualstudio.com/) to view it's contents.
 
-## Some Errors
-
-Services and the Technicians link currently do not work as the information was directly linked to firebase documents. You may see blank pages as a result.
-
 ## Dependencies
 
 To run the project make sure [Node.js](https://nodejs.org/en) is installed. You can do this by typing the command node -v in powershell to check the version. if you recieve 'react-scripts' is not recognized as an internal or external command' as an error you have to run **npm install** in the terminal to install the appropriate npm packages for react.
