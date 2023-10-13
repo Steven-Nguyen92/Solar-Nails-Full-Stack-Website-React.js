@@ -8,7 +8,7 @@ This is a full stack application that was built for a small business. It is reco
 
 ## Dependencies
 
-To run the project make sure [Node.js](https://nodejs.org/en) is installed. You can do this by typing the command node -v in powershell to check the version. if you recieve 'react-scripts' is not recognized as an internal or external command' as an error you have to run npm install in the terminal to install the appropriate npm packages for react.
+To run the project make sure [Node.js](https://nodejs.org/en) is installed. You can do this by typing the command node -v in powershell to check the version. if you recieve 'react-scripts' is not recognized as an internal or external command' as an error you have to run **npm install** in the terminal to install the appropriate npm packages for react.
 
 ## Available Scripts
 
