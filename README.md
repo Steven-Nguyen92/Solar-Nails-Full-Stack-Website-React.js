@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+This is a full stack application that was built for a small business. It is recomended to use the user guide and to use [Visual Studio Code](https://code.visualstudio.com/) to view it's contents.
+
 ## Available Scripts
 
 In the project directory, you can run:
