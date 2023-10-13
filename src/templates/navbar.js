@@ -49,13 +49,7 @@ const Navbar = () => {
             <a href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a href="/services">Services</a>
-          </li>
-          <li class="nav-item">
             <a href="/bookings">Bookings</a>
-          </li>
-          <li class="nav-item">
-            <a href="/about">Technicians</a>
           </li>
           {isAdmin &&
           <li class="nav-item">

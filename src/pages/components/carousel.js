@@ -19,7 +19,7 @@ export default function ControlledCarousel() {
         <Carousel.Item>
           <img
             className="image"
-            src="https://www.alexandredeparis.com/wp-content/uploads/2017/10/Nail-Salon.jpg"
+            src="https://img.freepik.com/free-photo/woman-with-nail-art-promoting-design-luxury-earrings-ring_114579-3704.jpg?w=1380&t=st=1697228534~exp=1697229134~hmac=bad66a27004a99257eede670591e252c71890c0884e3d29c2a5aaf0ca4cd8e83"
             alt="First slide"
           />
         </Carousel.Item>
