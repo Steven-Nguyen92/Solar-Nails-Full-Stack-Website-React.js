@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+This is a full stack application that was built for a small business. It is recomended to use the user guide and to use [Visual Studio Code](https://code.visualstudio.com/) to view it's contents.
+
+## Dependencies
+
+To run the project make sure [Node.js](https://nodejs.org/en) is installed. You can do this by typing the command node -v in powershell to check the version. if you recieve 'react-scripts' is not recognized as an internal or external command' as an error you have to run **npm install** in the terminal to install the appropriate npm packages for react.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -25,7 +33,6 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
