@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About
 
-This is a full stack application that was built for a small business. It is recomended to use the user guide and to use [Visual Studio Code](https://code.visualstudio.com/) to view it's contents.
+This is a full stack web application that was built for a small business. It is recomended to use [Visual Studio Code](https://code.visualstudio.com/) to view it's contents.
 
 ## Dependencies
 
